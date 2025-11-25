@@ -237,7 +237,7 @@ public class Desafio4_DetectorDeTransferenciaDeDados {
         Desafio4_DetectorDeTransferenciaDeDados meuDesafio = new Desafio4_DetectorDeTransferenciaDeDados();
 
         // IMPORTANTE: COLOQUE O CAMINHO DO SEU ARQUIVO AQUI!
-        String caminhoDoArquivo = "forensic_logs_teste.csv";
+        String caminhoDoArquivo = "analise-forense-aed.jar";
 
         // Imprime um cabeçalho bonito na tela
         System.out.println("================================================================");

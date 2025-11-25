@@ -284,7 +284,7 @@ public class Desafio5RastrearContaminacao {
     public static void main(String[] args) {
         try {
             // Tenta encontrar o arquivo automaticamente
-            String arquivo = encontrarArquivo("forensic_logs_teste.csv");
+            String arquivo = encontrarArquivo("analise-forense-aed.jar");
 
             System.out.println("=".repeat(70));
             System.out.println("DESAFIO 5: RASTREAR CONTAMINAÇÃO");

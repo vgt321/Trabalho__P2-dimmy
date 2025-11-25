@@ -78,7 +78,7 @@ public class Desafio1_SessoesInvalidas {
     
     public static void main(String[] args) {
         Desafio1_SessoesInvalidas desafio = new Desafio1_SessoesInvalidas();
-        String arquivo = "forensic_logs_teste.csv";
+        String arquivo = "analise-forense-aed.jar";
 
 
         System.out.println("=========================================================");

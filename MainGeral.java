@@ -4,7 +4,7 @@ public class MainGeral {
 
     // ⚠️ ATENÇÃO: Verifique e ajuste este caminho para o SEU arquivo de logs!
     // Ele será usado como argumento de teste para cada desafio.
-    private static final String ARQUIVO_LOGS_BASE = "forensic_logs_teste.csv";
+    private static final String ARQUIVO_LOGS_BASE = "analise-forense-aed.jar";
 
     public static void main(String[] args) {
         System.out.println("=========================================================");

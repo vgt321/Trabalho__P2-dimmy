@@ -103,7 +103,7 @@ public class Desafio3_PriorizarAlertas {
 
     public static void main(String[] args) {
         Desafio3_PriorizarAlertas desafio = new Desafio3_PriorizarAlertas();
-        String arquivo = "forensic_logs_teste.csv";
+        String arquivo = "analise-forense-aed.jar";
 
         System.out.println("===========================================================");
         System.out.println("=          DESAFIO 3: PRIORIZAR ALERTAS                   =");
